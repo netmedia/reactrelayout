@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/reactlayouts/static/css/main.6c8ba9ee.chunk.css",
-    "main.js": "/reactlayouts/static/js/main.c28edd2a.chunk.js",
-    "main.js.map": "/reactlayouts/static/js/main.c28edd2a.chunk.js.map",
-    "runtime-main.js": "/reactlayouts/static/js/runtime-main.08c049f6.js",
-    "runtime-main.js.map": "/reactlayouts/static/js/runtime-main.08c049f6.js.map",
-    "static/css/2.8e00eca3.chunk.css": "/reactlayouts/static/css/2.8e00eca3.chunk.css",
-    "static/js/2.063e82a6.chunk.js": "/reactlayouts/static/js/2.063e82a6.chunk.js",
-    "static/js/2.063e82a6.chunk.js.map": "/reactlayouts/static/js/2.063e82a6.chunk.js.map",
-    "index.html": "/reactlayouts/index.html",
-    "precache-manifest.ebf4668987426247cd10b99c30dec8ab.js": "/reactlayouts/precache-manifest.ebf4668987426247cd10b99c30dec8ab.js",
-    "service-worker.js": "/reactlayouts/service-worker.js",
-    "static/css/2.8e00eca3.chunk.css.map": "/reactlayouts/static/css/2.8e00eca3.chunk.css.map",
-    "static/css/main.6c8ba9ee.chunk.css.map": "/reactlayouts/static/css/main.6c8ba9ee.chunk.css.map",
-    "static/js/2.063e82a6.chunk.js.LICENSE.txt": "/reactlayouts/static/js/2.063e82a6.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/reactlayouts/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.css": "/reactrelayout/static/css/main.6c8ba9ee.chunk.css",
+    "main.js": "/reactrelayout/static/js/main.7da9cb83.chunk.js",
+    "main.js.map": "/reactrelayout/static/js/main.7da9cb83.chunk.js.map",
+    "runtime-main.js": "/reactrelayout/static/js/runtime-main.c2bfff5a.js",
+    "runtime-main.js.map": "/reactrelayout/static/js/runtime-main.c2bfff5a.js.map",
+    "static/css/2.f5ed1f4c.chunk.css": "/reactrelayout/static/css/2.f5ed1f4c.chunk.css",
+    "static/js/2.063e82a6.chunk.js": "/reactrelayout/static/js/2.063e82a6.chunk.js",
+    "static/js/2.063e82a6.chunk.js.map": "/reactrelayout/static/js/2.063e82a6.chunk.js.map",
+    "index.html": "/reactrelayout/index.html",
+    "precache-manifest.841dcea6ea4c07c7e856ea2c7ed23126.js": "/reactrelayout/precache-manifest.841dcea6ea4c07c7e856ea2c7ed23126.js",
+    "service-worker.js": "/reactrelayout/service-worker.js",
+    "static/css/2.f5ed1f4c.chunk.css.map": "/reactrelayout/static/css/2.f5ed1f4c.chunk.css.map",
+    "static/css/main.6c8ba9ee.chunk.css.map": "/reactrelayout/static/css/main.6c8ba9ee.chunk.css.map",
+    "static/js/2.063e82a6.chunk.js.LICENSE.txt": "/reactrelayout/static/js/2.063e82a6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/reactrelayout/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.08c049f6.js",
-    "static/css/2.8e00eca3.chunk.css",
+    "static/js/runtime-main.c2bfff5a.js",
+    "static/css/2.f5ed1f4c.chunk.css",
     "static/js/2.063e82a6.chunk.js",
     "static/css/main.6c8ba9ee.chunk.css",
-    "static/js/main.c28edd2a.chunk.js"
+    "static/js/main.7da9cb83.chunk.js"
   ]
 }
