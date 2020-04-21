@@ -1,5 +1,31 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## VLADAN STRIGO ADDED CUSTOM THINGS!
+
+npm i npm-force-resolutions
+
+in package.json
+
+  "resolutions": {
+    "immer": "^6.0.1"
+  },
+
+  "scripts": {
+    "preinstall": "npx npm-force-resolutions",
+    ...
+  },
+
+ run
+
+ npm install
+
+
+### VERY IMPORTANT
+After each npm install xyz or similar command, run manually npm install.
+This will run the npm force resolutions to force the "immer" to have the newer 
+version in \node_modules\@reduxjs\toolkit\package.json which has older version
+
+
 ## Available Scripts
 
 In the project directory, you can run:
